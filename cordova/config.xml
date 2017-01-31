@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="tw.com.aaaaaa.app1" version="0.1.0">
+  <name>tw.com.taki.app1</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="aquarian.ex@gmail.com">
+    aqutw
+  </author>
+</widget>
